@@ -1,1 +1,1 @@
-# EKG_demo
+# EKG_demo by Virgina Rutten
